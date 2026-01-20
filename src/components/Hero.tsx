@@ -23,7 +23,7 @@ const Hero = () => {
 
             <p className="text-xl text-gray-300 mb-4 leading-relaxed max-w-2xl">
               Stop wasting time on repetitive tasks. Veteran Vectors delivers custom AI automation
-              solutions that help small businesses cut inefficiencies by up to 30%, streamline operations,
+              solutions that help small businesses achieve 50%+ efficiency gains, streamline operations,
               and focus on what matters most - growing your business.
             </p>
 
