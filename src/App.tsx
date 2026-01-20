@@ -5,7 +5,6 @@ import Services from './components/Services';
 import About from './components/About';
 import AnimatedMAaaS from './components/AnimatedMAaaS';
 import Testimonials from './components/Testimonials';
-import EmailCapture from './components/EmailCapture';
 import Footer from './components/Footer';
 import FloatingCTA from './components/FloatingCTA';
 
@@ -18,7 +17,6 @@ function App() {
       <About />
       <AnimatedMAaaS />
       <Testimonials />
-      <EmailCapture />
       <Footer />
       <FloatingCTA />
     </div>
