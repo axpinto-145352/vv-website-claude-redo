@@ -43,7 +43,6 @@ const Footer = () => {
               <li><a href="#services" className="hover:text-vv-teal transition-colors">Our Services</a></li>
               <li><a href="#testimonials" className="hover:text-vv-teal transition-colors">Testimonials</a></li>
               <li><a href="#maas" className="hover:text-vv-teal transition-colors">How It Works</a></li>
-              <li><a href="/newsletter.html" className="hover:text-vv-teal transition-colors">The Vector Report</a></li>
               <li><a href="/faq.html" className="hover:text-vv-teal transition-colors">FAQs</a></li>
             </ul>
           </div>
