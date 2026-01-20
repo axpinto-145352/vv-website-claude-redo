@@ -8,21 +8,21 @@ const Services = () => {
       title: 'Email & Communication\nAutomation',
       description: 'Automate customer responses, lead follow-ups, and internal communications. Never miss an opportunity with intelligent email management.',
       features: ['Automated email responses', 'Lead nurturing sequences', 'Customer support automation', 'Meeting scheduling'],
-      image: './u1283965911_Aim_for_30002000_px_hyper-realistic_cinematic_lig_1074521f-0072-4511-8689-f5dfb7696758_2 (1).png'
+      image: './email-automation.png'
     },
     {
       icon: FileCheck,
       title: 'Document Processing\n& Data Entry',
       description: 'Stop wasting hours on manual data entry. Automate invoice processing, form filling, and document management.',
       features: ['Invoice & receipt processing', 'Form automation', 'Data extraction & entry', 'Document classification'],
-      image: './VC.jpg.png'
+      image: './document-processing.png'
     },
     {
       icon: Users,
       title: 'Customer Service\n& Sales',
       description: 'Scale your customer service without scaling your team. Automate lead qualification, customer onboarding, and support.',
       features: ['Lead qualification', 'Customer onboarding flows', 'Support ticket automation', 'CRM integration'],
-      image: './realestate.jpg.png'
+      image: './customer-service.png'
     }
   ];
 
