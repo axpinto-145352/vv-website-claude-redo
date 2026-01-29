@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://veteranvectors.io/sitemap.xml

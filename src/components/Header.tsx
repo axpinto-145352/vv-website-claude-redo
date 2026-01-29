@@ -34,6 +34,7 @@ const Header = () => {
             <a href="#about" className="text-gray-300 hover:text-vv-teal transition-colors font-medium">About</a>
             <a href="#testimonials" className="text-gray-300 hover:text-vv-teal transition-colors font-medium">Testimonials</a>
             <a href="#maas" className="text-gray-300 hover:text-vv-teal transition-colors font-medium">How It Works</a>
+            <a href="/blog/" className="text-gray-300 hover:text-vv-teal transition-colors font-medium">Blog</a>
             <button
               onClick={openCalendly}
               className="flex items-center space-x-2 bg-gradient-to-r from-vv-teal to-vv-cyan text-vv-dark px-4 py-2 rounded-lg font-bold transition-all hover:scale-105 font-military"
@@ -58,6 +59,7 @@ const Header = () => {
               <a href="#about" className="text-gray-300 hover:text-vv-teal transition-colors">About</a>
               <a href="#testimonials" className="text-gray-300 hover:text-vv-teal transition-colors">Testimonials</a>
               <a href="#maas" className="text-gray-300 hover:text-vv-teal transition-colors">How It Works</a>
+              <a href="/blog/" className="text-gray-300 hover:text-vv-teal transition-colors">Blog</a>
               <button
                 onClick={openCalendly}
                 className="bg-gradient-to-r from-vv-teal to-vv-cyan text-vv-dark px-4 py-2 rounded-lg font-bold transition-all hover:scale-105 font-military text-center"
